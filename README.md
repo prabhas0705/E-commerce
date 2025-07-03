@@ -94,15 +94,7 @@ ecom/
 ![Wishlist](https://github.com/user-attachments/assets/0c07aa8c-c173-4714-b782-708702045c05)
 
 ---
-
-## ⚙️ TODOs / Improvements (Optional)
-
-- Add product search/filter functionality  
-- Add user order history  
-- Integrate payment gateway (Razorpay, Stripe)  
-- Add email notifications  
-- Mobile responsive UI upgrade  
-
+  
 ## 🙌 Acknowledgments
 
 Inspired by classic e-commerce structure for educational and practical implementation using PHP + MySQL.
